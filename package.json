@@ -1,0 +1,25 @@
+{
+  "name": "simple-defer",
+  "version": "0.0.2",
+  "description": "A simples Promise.Defer()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Falci/simple-defer.git"
+  },
+  "keywords": [
+    "promise",
+    "defer",
+    "deferred",
+    "es6"
+  ],
+  "author": "Fernando Falci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Falci/simple-defer/issues"
+  },
+  "homepage": "https://github.com/Falci/simple-defer#readme"
+}
